@@ -1,4 +1,4 @@
- *Python Mini Projects Portfolio
+ *Python Mini Projects 
 * Overview
 
 This repository contains a collection of Python mini-projects built to strengthen core programming concepts such as loops, functions, conditionals, and user input handling.
